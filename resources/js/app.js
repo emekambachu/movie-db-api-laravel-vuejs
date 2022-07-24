@@ -47,7 +47,7 @@ import Home from './components/Home';
 
 createApp({
     components: {
-        Home
+        Home,
     }
 }).use(
     router, axios, VueAxios, moment
